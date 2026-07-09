@@ -10,7 +10,8 @@ StellarScope is an open-source Python toolkit for exploring magnetic field geome
 The long-term goal is to provide a lightweight, modular framework for working with stellarator magnetic equilibria, supporting educational exploration, rapid prototyping, and diagnostic development.
 
 
-<img src="figures/fluxsurface_with_fieldlines.png" alt="Plasma boundary with magnetic field lines for a Stellarator" width="50000"/>
+<img src="figures/fluxsurface_with_fieldlines.png"
+     alt="Flux surface with magnetic field lines">
 
 
 ## Planned Features
