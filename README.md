@@ -43,4 +43,4 @@ The long-term goal is to provide a lightweight, modular framework for working wi
 
 Magnetic field geometry lies at the heart of stellarator design. Understanding how magnetic field lines wind around complex three-dimensional configurations is essential for plasma confinement, diagnostics, and reactor optimization.
 
-StellarScope aims to provide an accessible platform for exploring these concepts through modern scientific Python tools while serving as a foundation for future work in computational fusion diagnostics.
+MagTrace aims to provide an accessible platform for exploring these concepts through modern scientific Python tools while serving as a foundation for future work in computational fusion diagnostics.
