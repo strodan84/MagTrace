@@ -5,7 +5,7 @@ MagTrace is a Python library for magnetic field representation, field-line traci
 
 ## Overview
 
-StellarScope is an open-source Python toolkit for exploring magnetic field geometry in stellarator fusion devices. The project focuses on intuitive visualization, field-line tracing, and analysis tools that help bridge computational plasma physics with experimental diagnostics.
+MagTrace is an open-source Python toolkit for exploring magnetic field geometry in stellarator fusion devices. The project focuses on intuitive visualization, field-line tracing, and analysis tools that help bridge computational plasma physics with experimental diagnostics.
 
 The long-term goal is to provide a lightweight, modular framework for working with stellarator magnetic equilibria, supporting educational exploration, rapid prototyping, and diagnostic development.
 
